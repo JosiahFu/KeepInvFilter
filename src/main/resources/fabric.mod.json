@@ -16,37 +16,20 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			{
-				"value": "archives.tater.keepinvfilter.KeepInvFilter",
-				"adapter": "kotlin"
-			}
-		],
-		"client": [
-			{
-				"value": "archives.tater.keepinvfilter.KeepInvFilterClient",
-				"adapter": "kotlin"
-			}
+			"archives.tater.keepinvfilter.KeepInvFilter"
 		],
 		"fabric-datagen": [
-			{
-				"value": "archives.tater.keepinvfilter.KeepInvFilterDataGenerator",
-				"adapter": "kotlin"
-			}
+			"archives.tater.keepinvfilter.KeepInvFilterDataGenerator"
 		]
 	},
 	"mixins": [
-		"keepinvfilter.mixins.json",
-		{
-			"config": "keepinvfilter.client.mixins.json",
-			"environment": "client"
-		}
+		"keepinvfilter.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.15.7",
 		"minecraft": "~1.20.1",
 		"java": ">=17",
-		"fabric-api": "*",
-		"fabric-language-kotlin": ">=1.9.23"
+		"fabric-api": "*"
 	},
 	"suggests": {
 		"another-mod": "*"
