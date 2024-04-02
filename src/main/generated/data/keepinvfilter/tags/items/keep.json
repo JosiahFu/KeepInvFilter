@@ -5,6 +5,7 @@
     "minecraft:bow",
     "minecraft:crossbow",
     "minecraft:water_bucket",
+    "minecraft:bucket",
     "minecraft:elytra",
     "minecraft:leather_helmet",
     "minecraft:leather_chestplate",
@@ -31,6 +32,7 @@
     "minecraft:diamond_leggings",
     "minecraft:diamond_boots",
     "minecraft:turtle_helmet",
+    "minecraft:shield",
     "minecraft:firework_rocket",
     "minecraft:flint_and_steel"
   ]

@@ -32,6 +32,7 @@ public class KeepInvFilterDataGenerator implements DataGeneratorEntrypoint {
                     Items.BOW,
                     Items.CROSSBOW,
                     Items.WATER_BUCKET,
+                    Items.BUCKET,
                     Items.ELYTRA,
                     Items.LEATHER_HELMET,
                     Items.LEATHER_CHESTPLATE,
@@ -58,6 +59,7 @@ public class KeepInvFilterDataGenerator implements DataGeneratorEntrypoint {
                     Items.DIAMOND_LEGGINGS,
                     Items.DIAMOND_BOOTS,
                     Items.TURTLE_HELMET,
+                    Items.SHIELD,
                     Items.FIREWORK_ROCKET,
                     Items.FLINT_AND_STEEL
             );
