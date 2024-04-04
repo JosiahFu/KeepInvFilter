@@ -32,8 +32,17 @@
     "minecraft:diamond_leggings",
     "minecraft:diamond_boots",
     "minecraft:turtle_helmet",
+    "minecraft:trident",
     "minecraft:shield",
-    "minecraft:firework_rocket",
-    "minecraft:flint_and_steel"
+    "minecraft:flint_and_steel",
+    "minecraft:shears",
+    "minecraft:spyglass",
+    "minecraft:brush",
+    "minecraft:lead",
+    "minecraft:compass",
+    "minecraft:recovery_compass",
+    "minecraft:clock",
+    "minecraft:fishing_rod",
+    "minecraft:goat_horn"
   ]
 }

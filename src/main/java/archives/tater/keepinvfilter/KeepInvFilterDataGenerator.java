@@ -59,9 +59,18 @@ public class KeepInvFilterDataGenerator implements DataGeneratorEntrypoint {
                     Items.DIAMOND_LEGGINGS,
                     Items.DIAMOND_BOOTS,
                     Items.TURTLE_HELMET,
+                    Items.TRIDENT,
                     Items.SHIELD,
-                    Items.FIREWORK_ROCKET,
-                    Items.FLINT_AND_STEEL
+                    Items.FLINT_AND_STEEL,
+                    Items.SHEARS,
+                    Items.SPYGLASS,
+                    Items.BRUSH,
+                    Items.LEAD,
+                    Items.COMPASS,
+                    Items.RECOVERY_COMPASS,
+                    Items.CLOCK,
+                    Items.FISHING_ROD,
+                    Items.GOAT_HORN
             );
         }
     }
